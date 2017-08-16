@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".second" />
+        <activity android:name=".Products_Category_Wise"></activity>
     </application>
 
 </manifest>
